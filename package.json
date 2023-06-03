@@ -1,0 +1,30 @@
+{
+  "name": "sql_employee-tracker",
+  "version": "1.0.0",
+  "description": "Nodejs CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amirlasalle/SQL_Employee-Tracker.git"
+  },
+  "keywords": [
+    "Mysql",
+    "inquirer",
+    "CLI",
+    "app"
+  ],
+  "author": "Amir Mohamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amirlasalle/SQL_Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Amirlasalle/SQL_Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.3.3"
+  }
+}
